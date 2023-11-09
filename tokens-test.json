@@ -1,0 +1,42 @@
+{
+  "global": {
+    "Base": {
+      "grey-100": {
+        "value": "#f2f2f2",
+        "type": "color"
+      },
+      "grey-200": {
+        "value": "#e6e6e6",
+        "type": "color"
+      },
+      "grey-300": {
+        "value": "#cccccc",
+        "type": "color"
+      },
+      "grey-400": {
+        "value": "#999999",
+        "type": "color"
+      }
+    },
+    "Especificos": {
+      "bg-btn-default": {
+        "value": "{Base.grey-100}",
+        "type": "color"
+      },
+      "bg-btn-hover": {
+        "value": "#e6e6e6",
+        "type": "color"
+      },
+      "bg-btn-click": {
+        "value": "#999999",
+        "type": "color"
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global"
+    ]
+  }
+}
